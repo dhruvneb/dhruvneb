@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=180&section=header&text=Dhruv%20Neb&fontSize=46&fontColor=ffffff&animation=twinkling&fontAlignY=34"/>
+<img width="100%" src="./assets/banner.png" alt="Amritsar nights - Golden Temple in synthwave"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=BB9AF7&center=true&vCenter=true&width=640&lines=B.Tech+Class+of+2030+%40+GNDU%2C+Amritsar;Learning+Python+for+AI;Building+with+AI+agents;Running+advancesolutions.co.in;TCS+CodeVita+2026+ready" alt="Typing SVG" />
