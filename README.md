@@ -69,4 +69,4 @@ dhruv = {
   <img src="https://komarev.com/ghpvc/?username=dhruvneb&label=Profile+Views&color=7aa2f7&style=for-the-badge" alt="Profile views" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer"/>
+<img width="100%" src="./assets/footer.png" alt=""/>
